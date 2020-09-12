@@ -1,29 +1,4 @@
-# echartsdemo
+# knowledgeGraph
+基于echarts关系图的知识图谱
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+仿思知实现的知识图谱功能,基于echarts关系图graph实现的知识图谱功能
